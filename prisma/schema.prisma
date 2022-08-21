@@ -1,0 +1,99 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Company {
+  id          String     @id @default(uuid())
+  name        String
+  hubspotLink String?
+  notionLink  String?
+  feedbacks   Feedback[]
+  user        User[]
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+
+  @@map("companies")
+}
+
+model Feedback {
+  id             String         @id @default(uuid())
+  company        Company        @relation(fields: [companyId], references: [id])
+  companyId      String
+  title          String
+  description    String
+  attachmentLink String?
+  isCritical     IsCritical     @default(TBD)
+  status         FeedbackStatus @default(OPEN)
+  feedbackType   FeedbackType   @default(TBD)
+  comments       Comment[]
+  createdAt      DateTime       @default(now())
+  updatedAt      DateTime       @updatedAt
+  closedAt       DateTime?
+
+  @@map("feedbacks")
+}
+
+model Comment {
+  id             String   @id @default(uuid())
+  feedback       Feedback @relation(fields: [feedbackId], references: [id], onDelete: Cascade)
+  feedbackId     String
+  message        String?
+  author         User     @relation(fields: [authorId], references: [id])
+  authorId       String
+  attachmentLink String?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  @@map("comments")
+}
+
+model User {
+  id          String     @id @default(uuid())
+  name        String     @unique
+  email       String[]   @unique
+  phone       String[]
+  userStatus  UserStatus @default(END_USER)
+  company     Company    @relation(fields: [companyId], references: [id])
+  companyId   String
+  comment     Comment[]
+  hubspotLink String?
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+
+  @@map("users")
+}
+
+enum FeedbackStatus {
+  OPEN
+  PENDING_RESOLUTION
+  CLOSED
+}
+
+enum FeedbackType {
+  TBD
+  DEFECT
+  FEATURE
+  USER_FAILURE
+}
+
+enum IsCritical {
+  TBD
+  TRUE
+  FALSE
+}
+
+enum UserStatus {
+  SUPPORT
+  QARA
+  PRODUCT
+  ADMIN
+  END_USER
+}
