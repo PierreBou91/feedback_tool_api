@@ -71,6 +71,14 @@ model User {
   @@map("users")
 }
 
+model Navigation {
+  id     String  @id @default(uuid())
+  title  String
+  href   String
+  target String?
+  rel    String?
+}
+
 enum FeedbackStatus {
   OPEN
   PENDING_RESOLUTION
