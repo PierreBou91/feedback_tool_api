@@ -77,6 +77,8 @@ model Navigation {
   href   String
   target String?
   rel    String?
+
+  @@map("navigation")
 }
 
 enum FeedbackStatus {
