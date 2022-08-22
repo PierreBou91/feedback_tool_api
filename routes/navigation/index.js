@@ -1,7 +1,7 @@
 "use strict";
 const { PrismaClient } = require("@prisma/client");
 const prisma = new PrismaClient();
-const cors = require("@fastify/cors");
+// const cors = require("@fastify/cors");
 
 module.exports = async function (fastify, opts) {
   // await fastify.register(cors, {
