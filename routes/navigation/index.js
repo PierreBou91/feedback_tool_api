@@ -11,6 +11,6 @@ module.exports = async function (fastify, opts) {
 
   fastify.get("/", async function (request, reply) {
     const nav = await prisma.navigation.findMany();
-    reply.send(nav);
+    return nav
   });
 };
