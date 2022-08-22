@@ -8,7 +8,25 @@ module.exports = async function (fastify, opts) {
   //   methods: ["GET"],
   // });
   fastify.get('/', async function (request, reply) {
-    const feedbacks = await prisma.feedback.findMany()
+    const feedbacks = await prisma.feedback.findMany({
+      include: {
+        company: true,
+      }
+    })
     return feedbacks
+  })
+
+  fastify.get('/:id', async function (request, reply) {
+    const { id } = request.params
+    const feedback = await prisma.feedback.findUnique({
+      where: {
+        id: id
+      },
+      include: {
+        company: true,
+        comments: true,
+      }
+    })
+    return feedback
   })
 }
