@@ -1,5 +1,5 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
+// IMPORTANT NOTICE UPON SCHEMA MODIFICATION
+// Make sur to update the type file in the frontend to ensure typesafety
 
 generator client {
   provider = "prisma-client-js"
