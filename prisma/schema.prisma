@@ -12,11 +12,11 @@ datasource db {
 
 model Company {
   id          String     @id @default(uuid())
-  name        String
+  name        String     @unique
   hubspotLink String?
   notionLink  String?
   feedbacks   Feedback[]
-  user        User[]
+  users       User[]
   createdAt   DateTime   @default(now())
   updatedAt   DateTime   @updatedAt
 
@@ -58,12 +58,12 @@ model Comment {
 model User {
   id          String     @id @default(uuid())
   name        String     @unique
-  email       String[]   @unique
-  phone       String[]
+  emails      String[]   @unique
+  phones      String[]
   userStatus  UserStatus @default(END_USER)
   company     Company    @relation(fields: [companyId], references: [id])
   companyId   String
-  comment     Comment[]
+  comments    Comment[]
   hubspotLink String?
   createdAt   DateTime   @default(now())
   updatedAt   DateTime   @updatedAt

@@ -2,400 +2,605 @@
   {
     "id": "7289f9f9-dd2f-4d79-acc7-966fd67408ac",
     "name": "Jeni Ivatts",
-    "email": ["jivatts0@goo.gl", "jivatts0@surveymonkey.com"],
-    "phone": [],
+    "emails": [
+      "jivatts0@goo.gl",
+      "jivatts0@surveymonkey.com"
+    ],
+    "phones": [],
     "companyId": "44011956-2189-4e23-8670-a4ef5501e3d4",
     "hubspotLink": null
   },
   {
     "id": "e33eb983-354d-49d9-b982-075d4a632c9b",
     "name": "Elysia Raison",
-    "email": ["eraison1@naver.com"],
-    "phone": ["487-633-6737", "768-364-4264"],
+    "emails": [
+      "eraison1@naver.com"
+    ],
+    "phones": [
+      "487-633-6737",
+      "768-364-4264"
+    ],
     "companyId": "9d8e7264-8a91-474a-8b3b-71245a547329",
     "hubspotLink": "https://mapy.cz/nulla/ut/erat.json?eget=congue&rutrum=elementum&at=in&lorem=hac&integer=habitasse&tincidunt=platea&ante=dictumst&vel=morbi&ipsum=vestibulum&praesent=velit&blandit=id&lacinia=pretium&erat=iaculis&vestibulum=diam&sed=erat&magna=fermentum&at=justo&nunc=nec&commodo=condimentum&placerat=neque&praesent=sapien&blandit=placerat&nam=ante&nulla=nulla&integer=justo&pede=aliquam&justo=quis&lacinia=turpis&eget=eget&tincidunt=elit&eget=sodales&tempus=scelerisque&vel=mauris&pede=sit&morbi=amet&porttitor=eros&lorem=suspendisse&id=accumsan&ligula=tortor&suspendisse=quis&ornare=turpis&consequat=sed&lectus=ante&in=vivamus&est=tortor&risus=duis&auctor=mattis&sed=egestas&tristique=metus&in=aenean&tempus=fermentum&sit=donec&amet=ut&sem=mauris&fusce=eget&consequat=massa&nulla=tempor&nisl=convallis&nunc=nulla&nisl=neque&duis=libero&bibendum=convallis&felis=eget&sed=eleifend&interdum=luctus&venenatis=ultricies&turpis=eu&enim=nibh&blandit=quisque&mi=id&in=justo&porttitor=sit&pede=amet&justo=sapien&eu=dignissim&massa=vestibulum&donec=vestibulum"
   },
   {
     "id": "61584ee7-87a1-4dbd-a5c4-bb1a88cae8ac",
     "name": "Augustina Bowcock",
-    "email": ["abowcock2@marketwatch.com"],
-    "phone": ["240-338-6235"],
+    "emails": [
+      "abowcock2@marketwatch.com"
+    ],
+    "phones": [
+      "240-338-6235"
+    ],
     "companyId": "9d8e7264-8a91-474a-8b3b-71245a547329",
     "hubspotLink": null
   },
   {
     "id": "f03302a9-f0e3-4ae6-a3f3-1ac3ac8efd12",
     "name": "Lois Gaymer",
-    "email": ["lgaymer3@stumbleupon.com", "lgaymer3@livejournal.com"],
-    "phone": [],
+    "emails": [
+      "lgaymer3@stumbleupon.com",
+      "lgaymer3@livejournal.com"
+    ],
+    "phones": [],
     "companyId": "e8484834-24e0-40fb-a843-7d07e037498f",
     "hubspotLink": "http://shareasale.com/nulla/nunc/purus/phasellus/in.xml?vivamus=enim&in=leo&felis=rhoncus&eu=sed&sapien=vestibulum&cursus=sit&vestibulum=amet&proin=cursus&eu=id&mi=turpis&nulla=integer&ac=aliquet&enim=massa&in=id&tempor=lobortis&turpis=convallis&nec=tortor&euismod=risus&scelerisque=dapibus&quam=augue&turpis=vel&adipiscing=accumsan&lorem=tellus&vitae=nisi&mattis=eu&nibh=orci&ligula=mauris&nec=lacinia&sem=sapien&duis=quis&aliquam=libero&convallis=nullam&nunc=sit&proin=amet&at=turpis&turpis=elementum&a=ligula&pede=vehicula&posuere=consequat&nonummy=morbi&integer=a&non=ipsum&velit=integer&donec=a&diam=nibh&neque=in&vestibulum=quis&eget=justo&vulputate=maecenas&ut=rhoncus&ultrices=aliquam&vel=lacus&augue=morbi&vestibulum=quis&ante=tortor&ipsum=id&primis=nulla&in=ultrices&faucibus=aliquet&orci=maecenas&luctus=leo&et=odio&ultrices=condimentum&posuere=id&cubilia=luctus&curae=nec&donec=molestie&pharetra=sed&magna=justo&vestibulum=pellentesque&aliquet=viverra&ultrices=pede&erat=ac&tortor=diam&sollicitudin=cras&mi=pellentesque&sit=volutpat&amet=dui&lobortis=maecenas&sapien=tristique&sapien=est&non=et&mi=tempus&integer=semper"
   },
   {
     "id": "eb908785-1f82-4dcf-9e31-9912ff1167c2",
     "name": "Issie Botwright",
-    "email": ["ibotwright4@usnews.com"],
-    "phone": ["137-512-6747", "412-172-8137"],
+    "emails": [
+      "ibotwright4@usnews.com"
+    ],
+    "phones": [
+      "137-512-6747",
+      "412-172-8137"
+    ],
     "companyId": "9d8e7264-8a91-474a-8b3b-71245a547329",
     "hubspotLink": null
   },
   {
     "id": "a944f787-80d8-4ebe-842e-b86ee68b6a37",
     "name": "Courtnay Blades",
-    "email": ["cblades5@mozilla.com"],
-    "phone": ["711-535-8106"],
+    "emails": [
+      "cblades5@mozilla.com"
+    ],
+    "phones": [
+      "711-535-8106"
+    ],
     "companyId": "2224ae6b-87bf-4972-8a7a-15970f7d1612",
     "hubspotLink": "http://biblegateway.com/a/odio/in.js?lacinia=mauris&eget=vulputate&tincidunt=elementum&eget=nullam&tempus=varius&vel=nulla&pede=facilisi&morbi=cras&porttitor=non&lorem=velit&id=nec&ligula=nisi&suspendisse=vulputate&ornare=nonummy&consequat=maecenas&lectus=tincidunt&in=lacus&est=at&risus=velit&auctor=vivamus&sed=vel&tristique=nulla&in=eget&tempus=eros&sit=elementum&amet=pellentesque&sem=quisque&fusce=porta&consequat=volutpat&nulla=erat&nisl=quisque&nunc=erat&nisl=eros&duis=viverra&bibendum=eget&felis=congue&sed=eget&interdum=semper&venenatis=rutrum&turpis=nulla&enim=nunc&blandit=purus&mi=phasellus&in=in"
   },
   {
     "id": "f482d0b0-7428-486b-95eb-469395368534",
     "name": "Zackariah Misken",
-    "email": ["zmisken6@miibeian.gov.cn"],
-    "phone": ["229-239-0095"],
+    "emails": [
+      "zmisken6@miibeian.gov.cn"
+    ],
+    "phones": [
+      "229-239-0095"
+    ],
     "companyId": "a649e2d5-682b-406a-aa8f-71da63f657b4",
     "hubspotLink": null
   },
   {
     "id": "21e62673-c8bc-44a6-9354-87f105c64543",
     "name": "Petrina Fulop",
-    "email": ["pfulop7@dropbox.com", "pfulop7@un.org"],
-    "phone": ["135-996-1480", "674-514-3153"],
+    "emails": [
+      "pfulop7@dropbox.com",
+      "pfulop7@un.org"
+    ],
+    "phones": [
+      "135-996-1480",
+      "674-514-3153"
+    ],
     "companyId": "d5827db3-f8f6-4bee-82ba-cef22e76cd5a",
     "hubspotLink": null
   },
   {
     "id": "9bfd07d9-27fc-47bd-8f36-3970131ceb62",
     "name": "Joseph Overshott",
-    "email": ["jovershott8@bing.com", "jovershott8@telegraph.co.uk"],
-    "phone": [],
+    "emails": [
+      "jovershott8@bing.com",
+      "jovershott8@telegraph.co.uk"
+    ],
+    "phones": [],
     "companyId": "2d861485-7a86-439c-ac18-9cd866b8c050",
     "hubspotLink": null
   },
   {
     "id": "9a6ce7a8-4a56-459f-8fe1-75166ffd4972",
     "name": "Mari Leele",
-    "email": ["mleele9@princeton.edu", "mleele9@hostgator.com"],
-    "phone": [],
+    "emails": [
+      "mleele9@princeton.edu",
+      "mleele9@hostgator.com"
+    ],
+    "phones": [],
     "companyId": "004ce0ba-b062-49bc-a323-b2fd1a0c6832",
     "hubspotLink": "http://shop-pro.jp/suspendisse/potenti/in/eleifend/quam.xml?mollis=vel&molestie=augue&lorem=vestibulum&quisque=rutrum&ut=rutrum&erat=neque&curabitur=aenean&gravida=auctor&nisi=gravida&at=sem&nibh=praesent&in=id&hac=massa&habitasse=id&platea=nisl&dictumst=venenatis&aliquam=lacinia&augue=aenean&quam=sit&sollicitudin=amet&vitae=justo&consectetuer=morbi&eget=ut&rutrum=odio&at=cras&lorem=mi&integer=pede&tincidunt=malesuada&ante=in&vel=imperdiet&ipsum=et&praesent=commodo&blandit=vulputate&lacinia=justo"
   },
   {
     "id": "7ac3d9ad-3baa-4348-a8f3-481df86a6c67",
     "name": "Merrielle Thewlis",
-    "email": ["mthewlisa@jimdo.com", "mthewlisa@prweb.com"],
-    "phone": ["459-326-3461"],
+    "emails": [
+      "mthewlisa@jimdo.com",
+      "mthewlisa@prweb.com"
+    ],
+    "phones": [
+      "459-326-3461"
+    ],
     "companyId": "d5827db3-f8f6-4bee-82ba-cef22e76cd5a",
     "hubspotLink": "http://surveymonkey.com/eros/elementum/pellentesque/quisque/porta.jpg?lobortis=duis&sapien=ac&sapien=nibh&non=fusce&mi=lacus&integer=purus&ac=aliquet&neque=at&duis=feugiat&bibendum=non&morbi=pretium&non=quis&quam=lectus&nec=suspendisse&dui=potenti&luctus=in&rutrum=eleifend&nulla=quam&tellus=a&in=odio&sagittis=in&dui=hac&vel=habitasse&nisl=platea&duis=dictumst&ac=maecenas&nibh=ut&fusce=massa&lacus=quis&purus=augue&aliquet=luctus&at=tincidunt&feugiat=nulla&non=mollis&pretium=molestie&quis=lorem&lectus=quisque&suspendisse=ut&potenti=erat&in=curabitur&eleifend=gravida&quam=nisi&a=at&odio=nibh&in=in&hac=hac&habitasse=habitasse"
   },
   {
     "id": "d0ab1192-8ddd-4e83-86db-12de83abe075",
     "name": "Ashbey Apdell",
-    "email": ["aapdellb@amazon.co.jp"],
-    "phone": [],
+    "emails": [
+      "aapdellb@amazon.co.jp"
+    ],
+    "phones": [],
     "companyId": "d6fc0873-470a-4832-b3f8-efa648335509",
     "hubspotLink": "https://networksolutions.com/lacinia/aenean/sit/amet/justo.jpg?nisl=platea&aenean=dictumst&lectus=aliquam&pellentesque=augue&eget=quam&nunc=sollicitudin&donec=vitae&quis=consectetuer&orci=eget&eget=rutrum&orci=at&vehicula=lorem&condimentum=integer&curabitur=tincidunt&in=ante&libero=vel&ut=ipsum&massa=praesent&volutpat=blandit&convallis=lacinia&morbi=erat&odio=vestibulum&odio=sed&elementum=magna&eu=at&interdum=nunc&eu=commodo&tincidunt=placerat&in=praesent&leo=blandit&maecenas=nam&pulvinar=nulla&lobortis=integer&est=pede&phasellus=justo&sit=lacinia&amet=eget&erat=tincidunt&nulla=eget&tempus=tempus&vivamus=vel&in=pede&felis=morbi&eu=porttitor&sapien=lorem&cursus=id&vestibulum=ligula&proin=suspendisse&eu=ornare&mi=consequat&nulla=lectus&ac=in&enim=est&in=risus&tempor=auctor&turpis=sed&nec=tristique"
   },
   {
     "id": "b40b4c65-110c-4340-9548-fd6a696e3b29",
     "name": "Benedick Gillbey",
-    "email": ["bgillbeyc@meetup.com"],
-    "phone": [],
+    "emails": [
+      "bgillbeyc@meetup.com"
+    ],
+    "phones": [],
     "companyId": "2d861485-7a86-439c-ac18-9cd866b8c050",
     "hubspotLink": "http://wikipedia.org/nulla/sed/accumsan/felis/ut/at.aspx?luctus=ut&cum=blandit&sociis=non&natoque=interdum&penatibus=in&et=ante&magnis=vestibulum&dis=ante&parturient=ipsum&montes=primis&nascetur=in&ridiculus=faucibus&mus=orci&vivamus=luctus&vestibulum=et&sagittis=ultrices&sapien=posuere&cum=cubilia&sociis=curae&natoque=duis&penatibus=faucibus&et=accumsan&magnis=odio&dis=curabitur&parturient=convallis&montes=duis&nascetur=consequat&ridiculus=dui&mus=nec&etiam=nisi&vel=volutpat&augue=eleifend&vestibulum=donec&rutrum=ut&rutrum=dolor&neque=morbi&aenean=vel&auctor=lectus&gravida=in&sem=quam&praesent=fringilla&id=rhoncus&massa=mauris&id=enim&nisl=leo&venenatis=rhoncus&lacinia=sed&aenean=vestibulum&sit=sit&amet=amet&justo=cursus&morbi=id&ut=turpis&odio=integer&cras=aliquet&mi=massa&pede=id&malesuada=lobortis&in=convallis&imperdiet=tortor&et=risus&commodo=dapibus&vulputate=augue&justo=vel&in=accumsan&blandit=tellus&ultrices=nisi&enim=eu&lorem=orci&ipsum=mauris&dolor=lacinia&sit=sapien&amet=quis&consectetuer=libero&adipiscing=nullam&elit=sit&proin=amet&interdum=turpis&mauris=elementum&non=ligula&ligula=vehicula&pellentesque=consequat&ultrices=morbi&phasellus=a"
   },
   {
     "id": "5be505e0-4179-4ed4-8bb2-7ae9ed923c91",
     "name": "Salome Batcheldor",
-    "email": ["sbatcheldord@wikispaces.com"],
-    "phone": [],
+    "emails": [
+      "sbatcheldord@wikispaces.com"
+    ],
+    "phones": [],
     "companyId": "a649e2d5-682b-406a-aa8f-71da63f657b4",
     "hubspotLink": null
   },
   {
     "id": "b4598141-66d9-45c5-b6e9-52a7127411a9",
     "name": "Emalia Nezey",
-    "email": ["enezeye@craigslist.org"],
-    "phone": [],
+    "emails": [
+      "enezeye@craigslist.org"
+    ],
+    "phones": [],
     "companyId": "d5827db3-f8f6-4bee-82ba-cef22e76cd5a",
     "hubspotLink": null
   },
   {
     "id": "15af595f-14e9-487f-b6b8-89c5c1db6232",
     "name": "Hadria Snaddon",
-    "email": ["hsnaddonf@patch.com", "hsnaddonf@theatlantic.com"],
-    "phone": ["594-681-6734"],
+    "emails": [
+      "hsnaddonf@patch.com",
+      "hsnaddonf@theatlantic.com"
+    ],
+    "phones": [
+      "594-681-6734"
+    ],
     "companyId": "9d8e7264-8a91-474a-8b3b-71245a547329",
     "hubspotLink": "http://rakuten.co.jp/volutpat/convallis.aspx?sit=tincidunt&amet=nulla&sem=mollis&fusce=molestie&consequat=lorem&nulla=quisque&nisl=ut&nunc=erat&nisl=curabitur&duis=gravida&bibendum=nisi&felis=at&sed=nibh&interdum=in&venenatis=hac&turpis=habitasse&enim=platea&blandit=dictumst&mi=aliquam&in=augue&porttitor=quam&pede=sollicitudin&justo=vitae&eu=consectetuer&massa=eget&donec=rutrum&dapibus=at&duis=lorem&at=integer&velit=tincidunt&eu=ante&est=vel&congue=ipsum&elementum=praesent&in=blandit&hac=lacinia&habitasse=erat&platea=vestibulum&dictumst=sed&morbi=magna&vestibulum=at&velit=nunc&id=commodo&pretium=placerat&iaculis=praesent&diam=blandit&erat=nam&fermentum=nulla&justo=integer&nec=pede&condimentum=justo&neque=lacinia&sapien=eget&placerat=tincidunt&ante=eget&nulla=tempus"
   },
   {
     "id": "5d7c2b80-6fcd-40e0-aced-86c6b2f5b70f",
     "name": "Anatola Broome",
-    "email": ["abroomeg@sogou.com"],
-    "phone": [],
+    "emails": [
+      "abroomeg@sogou.com"
+    ],
+    "phones": [],
     "companyId": "9d8e7264-8a91-474a-8b3b-71245a547329",
     "hubspotLink": "http://toplist.cz/quam/fringilla/rhoncus/mauris/enim.jsp?malesuada=iaculis&in=justo&imperdiet=in&et=hac&commodo=habitasse&vulputate=platea&justo=dictumst&in=etiam&blandit=faucibus&ultrices=cursus&enim=urna&lorem=ut&ipsum=tellus&dolor=nulla&sit=ut&amet=erat&consectetuer=id&adipiscing=mauris&elit=vulputate&proin=elementum&interdum=nullam&mauris=varius"
   },
   {
     "id": "2d1b65b0-3c35-45e1-8b5a-7f62e8489db0",
     "name": "Tamra Yosselevitch",
-    "email": ["tyosselevitchh@ning.com", "tyosselevitchh@foxnews.com"],
-    "phone": [],
+    "emails": [
+      "tyosselevitchh@ning.com",
+      "tyosselevitchh@foxnews.com"
+    ],
+    "phones": [],
     "companyId": "9d8e7264-8a91-474a-8b3b-71245a547329",
     "hubspotLink": null
   },
   {
     "id": "f5e6ca3f-ae1d-4a28-bfd4-23c4ebfe9798",
     "name": "Carmelia Ikins",
-    "email": ["cikinsi@deliciousdays.com", "cikinsi@google.com.hk"],
-    "phone": ["274-514-8672", "692-242-7043"],
+    "emails": [
+      "cikinsi@deliciousdays.com",
+      "cikinsi@google.com.hk"
+    ],
+    "phones": [
+      "274-514-8672",
+      "692-242-7043"
+    ],
     "companyId": "9d8e7264-8a91-474a-8b3b-71245a547329",
     "hubspotLink": null
   },
   {
     "id": "d6b935ff-24d5-4190-b208-dc1027d8434f",
     "name": "Netta Grene",
-    "email": ["ngrenej@geocities.com"],
-    "phone": ["119-365-9784", "438-770-5557"],
+    "emails": [
+      "ngrenej@geocities.com"
+    ],
+    "phones": [
+      "119-365-9784",
+      "438-770-5557"
+    ],
     "companyId": "2224ae6b-87bf-4972-8a7a-15970f7d1612",
     "hubspotLink": null
   },
   {
     "id": "1af3c639-dd90-41b6-98cd-b29ec3e000bb",
     "name": "Goraud Stenson",
-    "email": ["gstensonk@yellowbook.com"],
-    "phone": ["608-429-6798", "276-711-1267"],
+    "emails": [
+      "gstensonk@yellowbook.com"
+    ],
+    "phones": [
+      "608-429-6798",
+      "276-711-1267"
+    ],
     "companyId": "a649e2d5-682b-406a-aa8f-71da63f657b4",
     "hubspotLink": null
   },
   {
     "id": "bea597bb-62d2-4a6f-b6bd-5bd828f3fb65",
     "name": "Danila Angeli",
-    "email": ["dangelil@foxnews.com", "dangelil@google.cn"],
-    "phone": ["195-954-5788"],
+    "emails": [
+      "dangelil@foxnews.com",
+      "dangelil@google.cn"
+    ],
+    "phones": [
+      "195-954-5788"
+    ],
     "companyId": "2d861485-7a86-439c-ac18-9cd866b8c050",
     "hubspotLink": null
   },
   {
     "id": "337179e3-3138-42e7-b786-b913ba041cc5",
     "name": "Ulberto Petit",
-    "email": ["upetitm@hubpages.com"],
-    "phone": [],
+    "emails": [
+      "upetitm@hubpages.com"
+    ],
+    "phones": [],
     "companyId": "a649e2d5-682b-406a-aa8f-71da63f657b4",
     "hubspotLink": null
   },
   {
     "id": "cfdccfbc-1675-4d02-8450-f56467540630",
     "name": "Valeria Killingback",
-    "email": ["vkillingbackn@plala.or.jp", "vkillingbackn@java.com"],
-    "phone": ["827-442-1759", "278-427-5116"],
+    "emails": [
+      "vkillingbackn@plala.or.jp",
+      "vkillingbackn@java.com"
+    ],
+    "phones": [
+      "827-442-1759",
+      "278-427-5116"
+    ],
     "companyId": "2224ae6b-87bf-4972-8a7a-15970f7d1612",
     "hubspotLink": "http://dion.ne.jp/in.html?pellentesque=libero&at=non&nulla=mattis&suspendisse=pulvinar&potenti=nulla&cras=pede&in=ullamcorper&purus=augue&eu=a&magna=suscipit&vulputate=nulla&luctus=elit&cum=ac&sociis=nulla&natoque=sed&penatibus=vel&et=enim&magnis=sit&dis=amet&parturient=nunc"
   },
   {
     "id": "b3384c5f-aed6-4c92-ab27-43e98418e7ac",
     "name": "Pamella Tupman",
-    "email": ["ptupmano@smh.com.au"],
-    "phone": ["903-558-8005"],
+    "emails": [
+      "ptupmano@smh.com.au"
+    ],
+    "phones": [
+      "903-558-8005"
+    ],
     "companyId": "2224ae6b-87bf-4972-8a7a-15970f7d1612",
     "hubspotLink": null
   },
   {
     "id": "58259480-9d2e-485c-8d8d-e2fe02b9309c",
     "name": "Tatum Rosencrantz",
-    "email": ["trosencrantzp@vistaprint.com", "trosencrantzp@facebook.com"],
-    "phone": ["642-589-2515", "769-695-8404"],
+    "emails": [
+      "trosencrantzp@vistaprint.com",
+      "trosencrantzp@facebook.com"
+    ],
+    "phones": [
+      "642-589-2515",
+      "769-695-8404"
+    ],
     "companyId": "44011956-2189-4e23-8670-a4ef5501e3d4",
     "hubspotLink": null
   },
   {
     "id": "b3643906-9d77-4290-b442-3b71bbf7a8b6",
     "name": "Bobbie Dumberell",
-    "email": ["bdumberellq@skyrock.com", "bdumberellq@addtoany.com"],
-    "phone": ["234-665-6303"],
+    "emails": [
+      "bdumberellq@skyrock.com",
+      "bdumberellq@addtoany.com"
+    ],
+    "phones": [
+      "234-665-6303"
+    ],
     "companyId": "a649e2d5-682b-406a-aa8f-71da63f657b4",
     "hubspotLink": "http://vistaprint.com/ipsum.jsp?ante=nam&ipsum=dui&primis=proin&in=leo&faucibus=odio&orci=porttitor&luctus=id&et=consequat&ultrices=in&posuere=consequat&cubilia=ut&curae=nulla&donec=sed&pharetra=accumsan&magna=felis&vestibulum=ut&aliquet=at&ultrices=dolor&erat=quis&tortor=odio&sollicitudin=consequat&mi=varius&sit=integer&amet=ac&lobortis=leo&sapien=pellentesque&sapien=ultrices&non=mattis&mi=odio&integer=donec&ac=vitae&neque=nisi&duis=nam&bibendum=ultrices&morbi=libero&non=non&quam=mattis&nec=pulvinar&dui=nulla&luctus=pede&rutrum=ullamcorper&nulla=augue&tellus=a&in=suscipit&sagittis=nulla&dui=elit&vel=ac&nisl=nulla&duis=sed&ac=vel&nibh=enim&fusce=sit&lacus=amet&purus=nunc&aliquet=viverra&at=dapibus&feugiat=nulla&non=suscipit&pretium=ligula&quis=in&lectus=lacus&suspendisse=curabitur&potenti=at&in=ipsum&eleifend=ac&quam=tellus&a=semper&odio=interdum&in=mauris&hac=ullamcorper&habitasse=purus&platea=sit&dictumst=amet&maecenas=nulla&ut=quisque&massa=arcu&quis=libero&augue=rutrum&luctus=ac&tincidunt=lobortis&nulla=vel"
   },
   {
     "id": "777128d7-5a07-4a7d-a410-968a3cdf2aa7",
     "name": "Fannie Blyth",
-    "email": ["fblythr@nyu.edu"],
-    "phone": ["972-163-5043"],
+    "emails": [
+      "fblythr@nyu.edu"
+    ],
+    "phones": [
+      "972-163-5043"
+    ],
     "companyId": "a649e2d5-682b-406a-aa8f-71da63f657b4",
     "hubspotLink": null
   },
   {
     "id": "caa1b420-4870-42c7-af97-5619db353e95",
     "name": "Daloris Tolumello",
-    "email": ["dtolumellos@weather.com"],
-    "phone": ["790-543-6991", "942-684-4308"],
+    "emails": [
+      "dtolumellos@weather.com"
+    ],
+    "phones": [
+      "790-543-6991",
+      "942-684-4308"
+    ],
     "companyId": "004ce0ba-b062-49bc-a323-b2fd1a0c6832",
     "hubspotLink": null
   },
   {
     "id": "eb8808b0-c78b-48a5-bbce-935edd62ce29",
     "name": "Jeanna Bewicke",
-    "email": ["jbewicket@google.es", "jbewicket@hhs.gov"],
-    "phone": ["157-636-3568"],
+    "emails": [
+      "jbewicket@google.es",
+      "jbewicket@hhs.gov"
+    ],
+    "phones": [
+      "157-636-3568"
+    ],
     "companyId": "d5827db3-f8f6-4bee-82ba-cef22e76cd5a",
     "hubspotLink": null
   },
   {
     "id": "d83b1d7a-b18b-4994-a989-bf3286467364",
     "name": "Packston Grim",
-    "email": ["pgrimu@sakura.ne.jp"],
-    "phone": ["430-774-1609", "276-156-9407"],
+    "emails": [
+      "pgrimu@sakura.ne.jp"
+    ],
+    "phones": [
+      "430-774-1609",
+      "276-156-9407"
+    ],
     "companyId": "e8484834-24e0-40fb-a843-7d07e037498f",
     "hubspotLink": "http://fda.gov/pede.json?ornare=est&consequat=risus&lectus=auctor&in=sed&est=tristique&risus=in&auctor=tempus&sed=sit&tristique=amet&in=sem&tempus=fusce&sit=consequat&amet=nulla&sem=nisl&fusce=nunc&consequat=nisl&nulla=duis&nisl=bibendum&nunc=felis&nisl=sed&duis=interdum&bibendum=venenatis&felis=turpis&sed=enim&interdum=blandit&venenatis=mi&turpis=in&enim=porttitor&blandit=pede&mi=justo&in=eu&porttitor=massa&pede=donec&justo=dapibus&eu=duis&massa=at&donec=velit&dapibus=eu&duis=est&at=congue&velit=elementum&eu=in&est=hac&congue=habitasse&elementum=platea&in=dictumst&hac=morbi&habitasse=vestibulum&platea=velit&dictumst=id&morbi=pretium&vestibulum=iaculis&velit=diam&id=erat&pretium=fermentum"
   },
   {
     "id": "883ebf03-7b20-4b17-b1f8-5977c6c78958",
     "name": "Carline Menlow",
-    "email": ["cmenlowv@spotify.com"],
-    "phone": [],
+    "emails": [
+      "cmenlowv@spotify.com"
+    ],
+    "phones": [],
     "companyId": "9d8e7264-8a91-474a-8b3b-71245a547329",
     "hubspotLink": null
   },
   {
     "id": "c42a4d49-8d75-4d5d-ae91-3a8b12ee59c0",
     "name": "Ancell Triggel",
-    "email": ["atriggelw@marriott.com", "atriggelw@samsung.com"],
-    "phone": ["626-377-7182"],
+    "emails": [
+      "atriggelw@marriott.com",
+      "atriggelw@samsung.com"
+    ],
+    "phones": [
+      "626-377-7182"
+    ],
     "companyId": "2d861485-7a86-439c-ac18-9cd866b8c050",
     "hubspotLink": null
   },
   {
     "id": "1fe59c77-06a2-492d-8c23-15ba7e952ad8",
     "name": "Kizzee Reiling",
-    "email": ["kreilingx@amazon.co.uk"],
-    "phone": ["534-494-9280"],
+    "emails": [
+      "kreilingx@amazon.co.uk"
+    ],
+    "phones": [
+      "534-494-9280"
+    ],
     "companyId": "d6fc0873-470a-4832-b3f8-efa648335509",
     "hubspotLink": "https://ucoz.com/pede/ac.js?dui=in&maecenas=hac&tristique=habitasse&est=platea&et=dictumst&tempus=aliquam&semper=augue&est=quam&quam=sollicitudin&pharetra=vitae&magna=consectetuer&ac=eget&consequat=rutrum&metus=at&sapien=lorem&ut=integer&nunc=tincidunt&vestibulum=ante&ante=vel&ipsum=ipsum&primis=praesent&in=blandit&faucibus=lacinia&orci=erat&luctus=vestibulum&et=sed&ultrices=magna&posuere=at&cubilia=nunc&curae=commodo&mauris=placerat&viverra=praesent&diam=blandit&vitae=nam&quam=nulla&suspendisse=integer&potenti=pede&nullam=justo&porttitor=lacinia&lacus=eget&at=tincidunt&turpis=eget&donec=tempus&posuere=vel&metus=pede&vitae=morbi&ipsum=porttitor&aliquam=lorem&non=id&mauris=ligula&morbi=suspendisse&non=ornare&lectus=consequat&aliquam=lectus&sit=in&amet=est"
   },
   {
     "id": "1c1d94a3-6f00-4f1d-b20b-d57338183967",
     "name": "Gunner Banaszczyk",
-    "email": ["gbanaszczyky@seattletimes.com", "gbanaszczyky@blog.com"],
-    "phone": ["658-271-1953", "327-879-6386"],
+    "emails": [
+      "gbanaszczyky@seattletimes.com",
+      "gbanaszczyky@blog.com"
+    ],
+    "phones": [
+      "658-271-1953",
+      "327-879-6386"
+    ],
     "companyId": "d5827db3-f8f6-4bee-82ba-cef22e76cd5a",
     "hubspotLink": "http://yahoo.co.jp/eros/viverra/eget/congue.js?etiam=lacinia&faucibus=eget&cursus=tincidunt&urna=eget&ut=tempus&tellus=vel"
   },
   {
     "id": "707098bc-b2cd-4147-9e0b-e9470620c3c1",
     "name": "Homer Tapenden",
-    "email": ["htapendenz@prlog.org", "htapendenz@multiply.com"],
-    "phone": [],
+    "emails": [
+      "htapendenz@prlog.org",
+      "htapendenz@multiply.com"
+    ],
+    "phones": [],
     "companyId": "9d8e7264-8a91-474a-8b3b-71245a547329",
     "hubspotLink": "https://themeforest.net/amet.jpg?quam=feugiat&pede=non&lobortis=pretium&ligula=quis&sit=lectus&amet=suspendisse"
   },
   {
     "id": "66c4e894-f08f-4d81-a630-58ddd79e5ec5",
     "name": "Anselma Rainton",
-    "email": ["arainton10@wsj.com"],
-    "phone": [],
+    "emails": [
+      "arainton10@wsj.com"
+    ],
+    "phones": [],
     "companyId": "d5827db3-f8f6-4bee-82ba-cef22e76cd5a",
     "hubspotLink": null
   },
   {
     "id": "336bbb73-19e6-4dff-b88c-2b7190ff713f",
     "name": "Gamaliel Shellibeer",
-    "email": ["gshellibeer11@jimdo.com"],
-    "phone": ["228-511-4214"],
+    "emails": [
+      "gshellibeer11@jimdo.com"
+    ],
+    "phones": [
+      "228-511-4214"
+    ],
     "companyId": "004ce0ba-b062-49bc-a323-b2fd1a0c6832",
     "hubspotLink": null
   },
   {
     "id": "8b3ab1b9-b59d-4df2-8939-61df0738fe8a",
     "name": "Mirabella Pull",
-    "email": ["mpull12@parallels.com", "mpull12@google.it"],
-    "phone": [],
+    "emails": [
+      "mpull12@parallels.com",
+      "mpull12@google.it"
+    ],
+    "phones": [],
     "companyId": "2d861485-7a86-439c-ac18-9cd866b8c050",
     "hubspotLink": null
   },
   {
     "id": "fd00ff69-2768-4612-b195-937e266a067d",
     "name": "Chlo Blenkiron",
-    "email": ["cblenkiron13@auda.org.au", "cblenkiron13@mozilla.org"],
-    "phone": ["528-880-7408"],
+    "emails": [
+      "cblenkiron13@auda.org.au",
+      "cblenkiron13@mozilla.org"
+    ],
+    "phones": [
+      "528-880-7408"
+    ],
     "companyId": "5aa0f62d-5542-4774-a378-848fd6f05417",
     "hubspotLink": null
   },
   {
     "id": "5ada7190-39f4-4c35-8e8f-d5d6d04678f4",
     "name": "Ellis Lysaght",
-    "email": ["elysaght14@ezinearticles.com", "elysaght14@usa.gov"],
-    "phone": ["272-602-3531", "536-892-9332"],
+    "emails": [
+      "elysaght14@ezinearticles.com",
+      "elysaght14@usa.gov"
+    ],
+    "phones": [
+      "272-602-3531",
+      "536-892-9332"
+    ],
     "companyId": "e8484834-24e0-40fb-a843-7d07e037498f",
     "hubspotLink": "http://youku.com/et/ultrices/posuere/cubilia/curae/nulla/dapibus.jpg?ante=elit&vestibulum=sodales&ante=scelerisque&ipsum=mauris&primis=sit&in=amet&faucibus=eros&orci=suspendisse&luctus=accumsan&et=tortor&ultrices=quis&posuere=turpis&cubilia=sed&curae=ante&duis=vivamus"
   },
   {
     "id": "bfa9e75d-0822-4948-87f9-86983464ea04",
     "name": "Walden Samways",
-    "email": ["wsamways15@sourceforge.net", "wsamways15@youtu.be"],
-    "phone": ["575-646-2899", "157-784-5961"],
+    "emails": [
+      "wsamways15@sourceforge.net",
+      "wsamways15@youtu.be"
+    ],
+    "phones": [
+      "575-646-2899",
+      "157-784-5961"
+    ],
     "companyId": "d5827db3-f8f6-4bee-82ba-cef22e76cd5a",
     "hubspotLink": null
   },
   {
     "id": "fb0d0e67-effe-48e1-8836-fef4314f43e5",
     "name": "Heinrik Schruurs",
-    "email": ["hschruurs16@4shared.com"],
-    "phone": [],
+    "emails": [
+      "hschruurs16@4shared.com"
+    ],
+    "phones": [],
     "companyId": "e8484834-24e0-40fb-a843-7d07e037498f",
     "hubspotLink": null
   },
   {
     "id": "6445f196-a28f-48e5-9049-f3da51370be6",
     "name": "Antoinette Witts",
-    "email": ["awitts17@spiegel.de"],
-    "phone": ["571-913-6700"],
+    "emails": [
+      "awitts17@spiegel.de"
+    ],
+    "phones": [
+      "571-913-6700"
+    ],
     "companyId": "9d8e7264-8a91-474a-8b3b-71245a547329",
     "hubspotLink": null
   },
   {
     "id": "a775c288-2a35-404f-87ec-4d16790cd5fa",
     "name": "Jerrylee Hilbourne",
-    "email": ["jhilbourne18@wp.com", "jhilbourne18@mapy.cz"],
-    "phone": ["564-869-4464"],
+    "emails": [
+      "jhilbourne18@wp.com",
+      "jhilbourne18@mapy.cz"
+    ],
+    "phones": [
+      "564-869-4464"
+    ],
     "companyId": "2d861485-7a86-439c-ac18-9cd866b8c050",
     "hubspotLink": null
   },
   {
     "id": "b3f82313-bd88-4428-858d-d58ce3bba4a7",
     "name": "Fidel Raycroft",
-    "email": ["fraycroft19@seesaa.net", "fraycroft19@exblog.jp"],
-    "phone": ["449-514-6830", "498-567-4790"],
+    "emails": [
+      "fraycroft19@seesaa.net",
+      "fraycroft19@exblog.jp"
+    ],
+    "phones": [
+      "449-514-6830",
+      "498-567-4790"
+    ],
     "companyId": "004ce0ba-b062-49bc-a323-b2fd1a0c6832",
     "hubspotLink": null
   },
   {
     "id": "2e5b28ea-4922-4841-af80-58b039d9a959",
     "name": "Blaine Conneau",
-    "email": ["bconneau1a@yelp.com"],
-    "phone": ["868-244-5710", "337-707-3875"],
+    "emails": [
+      "bconneau1a@yelp.com"
+    ],
+    "phones": [
+      "868-244-5710",
+      "337-707-3875"
+    ],
     "companyId": "a649e2d5-682b-406a-aa8f-71da63f657b4",
     "hubspotLink": null
   },
   {
     "id": "5c6d5e54-1323-4b2a-81fa-5e7accfb67be",
     "name": "Bobbette Petroulis",
-    "email": ["bpetroulis1b@topsy.com"],
-    "phone": [],
+    "emails": [
+      "bpetroulis1b@topsy.com"
+    ],
+    "phones": [],
     "companyId": "d5827db3-f8f6-4bee-82ba-cef22e76cd5a",
     "hubspotLink": "https://dagondesign.com/ut/dolor/morbi/vel/lectus/in/quam.html?convallis=hac&nulla=habitasse&neque=platea&libero=dictumst&convallis=etiam&eget=faucibus&eleifend=cursus&luctus=urna&ultricies=ut&eu=tellus&nibh=nulla&quisque=ut&id=erat&justo=id&sit=mauris&amet=vulputate&sapien=elementum&dignissim=nullam&vestibulum=varius&vestibulum=nulla&ante=facilisi&ipsum=cras&primis=non&in=velit&faucibus=nec&orci=nisi&luctus=vulputate&et=nonummy&ultrices=maecenas&posuere=tincidunt&cubilia=lacus&curae=at&nulla=velit&dapibus=vivamus&dolor=vel&vel=nulla&est=eget&donec=eros&odio=elementum&justo=pellentesque&sollicitudin=quisque&ut=porta&suscipit=volutpat&a=erat&feugiat=quisque&et=erat&eros=eros"
   },
   {
     "id": "ab582913-2346-41e8-84e7-202ff06ecc6e",
     "name": "Chester Frankum",
-    "email": ["cfrankum1c@reddit.com", "cfrankum1c@slideshare.net"],
-    "phone": ["780-625-2010"],
+    "emails": [
+      "cfrankum1c@reddit.com",
+      "cfrankum1c@slideshare.net"
+    ],
+    "phones": [
+      "780-625-2010"
+    ],
     "companyId": "44011956-2189-4e23-8670-a4ef5501e3d4",
     "hubspotLink": null
   },
   {
     "id": "64315e81-7858-4f99-a3ef-74a2800c723b",
     "name": "Gael Bulcroft",
-    "email": ["gbulcroft1d@sun.com"],
-    "phone": ["309-470-9247"],
+    "emails": [
+      "gbulcroft1d@sun.com"
+    ],
+    "phones": [
+      "309-470-9247"
+    ],
     "companyId": "5aa0f62d-5542-4774-a378-848fd6f05417",
     "hubspotLink": "http://businessinsider.com/praesent/blandit/lacinia.jsp?in=est&consequat=lacinia&ut=nisi&nulla=venenatis&sed=tristique&accumsan=fusce&felis=congue&ut=diam&at=id&dolor=ornare&quis=imperdiet&odio=sapien&consequat=urna&varius=pretium&integer=nisl&ac=ut&leo=volutpat&pellentesque=sapien&ultrices=arcu&mattis=sed&odio=augue&donec=aliquam&vitae=erat&nisi=volutpat&nam=in&ultrices=congue&libero=etiam&non=justo&mattis=etiam&pulvinar=pretium&nulla=iaculis&pede=justo&ullamcorper=in&augue=hac&a=habitasse&suscipit=platea&nulla=dictumst&elit=etiam&ac=faucibus&nulla=cursus&sed=urna&vel=ut&enim=tellus&sit=nulla&amet=ut&nunc=erat&viverra=id&dapibus=mauris&nulla=vulputate&suscipit=elementum&ligula=nullam&in=varius&lacus=nulla&curabitur=facilisi"
   }
