@@ -20,7 +20,7 @@ module.exports = async function (fastify, opts) {
       take: request.query["take"],
       skip: request.query["skip"],
       orderBy: {
-        createdAt: "desc",
+        status: "asc",
       },
       include: {
         company: true,
