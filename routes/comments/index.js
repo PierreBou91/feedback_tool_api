@@ -1,28 +1,22 @@
 "use strict";
-const { PrismaClient } = require("@prisma/client");
-const prisma = new PrismaClient();
+
+const { getCommentsByFeedbackIdHandler } = require("./handlers/get");
 
 module.exports = async function (fastify, opts) {
-  // Querystring validation for comments route
-  const schema = {
-    query: {
-      type: "object",
-      properties: {
-        feedbackId: { type: "string" },
+  fastify.route({
+    method: "GET",
+    url: "/",
+    schema: {
+      query: {
+        type: "object",
+        properties: {
+          feedbackId: { type: "string" },
+        },
+        required: ["feedbackId"],
       },
-      required: ["feedbackId"],
     },
-  };
-
-  fastify.get("/", async function (request, reply) {
-    const comments = await prisma.comment.findMany({
-      where: {
-        feedbackId: request.query["feedbackId"],
-      },
-      include: {
-        author: true,
-      },
-    });
-    return comments;
+    handler: async (request, reply) => {
+      return await getCommentsByFeedbackIdHandler(request.query["feedbackId"]);
+    },
   });
 };

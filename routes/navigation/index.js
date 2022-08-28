@@ -1,10 +1,12 @@
-"use strict";
-const { PrismaClient } = require("@prisma/client");
-const prisma = new PrismaClient();
+const { getNavigationHandler } = require("./handlers/get");
 
 module.exports = async function (fastify, opts) {
-  fastify.get("/", async function (request, reply) {
-    const nav = await prisma.navigation.findMany();
-    return nav;
+  // @route GET /navigation
+  fastify.route({
+    method: "GET",
+    url: "/",
+    handler: async (request, reply) => {
+      return await getNavigationHandler(request, reply);
+    },
   });
 };
